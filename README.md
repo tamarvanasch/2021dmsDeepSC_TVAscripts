@@ -10,11 +10,11 @@ The files in this repository can be used to:
 3) Evaluate the training and predict for a specified test set
 4) Apply sensitivity analysis and/or integrated gradients to explain the prediction of the network
 
-An extensive report on this research is added as a pdf file to this repository (thesisreport_tamarvanasch.pdf)
+An extensive report on this research is added as a pdf file to this repository (0906621_MasterThesis.pdf)
 
 ## Organization of files
 
 
 ## Packages used
-The scripts are created in Python (v..). The CNN is build using Keras (v2.4.2) with Tensorflow (v2.4.1) backend. 
+The scripts are created in Python (v3.6.8). The CNN is build using Keras (v2.4.2) with Tensorflow (v2.4.1) backend. 
 For an overview of all packages used, and the corresponding versions, see the specs.txt file.
